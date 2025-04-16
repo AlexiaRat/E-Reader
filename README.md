@@ -11,8 +11,7 @@ OpenBook e un e-reader open-source facut sa fie simplu, eco-friendly si sa ofere
 
 Proiectul e construit in jurul unui ESP32-C6 si are un ecran e-paper de 7.5 inch, senzori de mediu si un sistem de management al bateriei. Am incercat sa fac totul modular si cat mai open-source.
 
-### Lista de componente
-
+### BOM
 | Componenta | Part Number | Descriere | Interfata | Datasheet | Link furnizor |
 |-----------|-------------|-----------|-----------|-----------|---------------|
 | Microcontroller | ESP32-C6-WROOM-1-N8 | Wi-Fi 6, BLE5, RISC-V | - | [Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_datasheet_en.pdf) | [Mouser](https://www.mouser.com/ProductDetail/Espressif-Systems/ESP32-C6-WROOM-1-N8) |
